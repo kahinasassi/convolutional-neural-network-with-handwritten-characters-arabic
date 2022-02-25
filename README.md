@@ -1,1 +1,1 @@
-implementation of the cnn in tensorflow "keras"
+The repository contain the implementation of CNN with Arabic handwritten characters on the OIHACDB dataset (Off lineIsolatedHandwrittenArabicCharactersDataBase). The dataset contains 5600 images of size 128 * 128 pixels each in bmp format. Each class contains exactly 200 examples.
